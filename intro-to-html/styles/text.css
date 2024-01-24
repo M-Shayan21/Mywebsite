@@ -1,0 +1,48 @@
+p {
+  font-family: Roboto;
+  
+  margin-top: 0;
+}
+.title1  
+{
+font-size: 18px; 
+font-weight: bold;
+line-height: 24px;
+margin-bottom: 2px;
+width: 280px;
+}
+.title2{
+font-size: 14px;
+color: rgb(96, 96, 96);
+margin-bottom: 16px;
+
+}
+.title3 {
+font-size: 14px;
+color: rgb(96, 96, 96);
+margin-bottom: 16px;
+}
+.title4{
+font-size: 14px;
+color: rgb(96, 96, 96);
+line-height: 20px;
+margin-bottom: 100px;
+width: 280px;
+}
+.title5{
+font-size: 14px;
+margin-bottom: 50px;
+background-color: rgb(227, 65, 64);
+color: white;
+text-align: center;
+padding-top: 18px;
+padding-bottom: 18px;
+}
+.span-example{
+color: white;
+
+}
+.span-example:hover{
+text-decoration: underline;
+cursor: pointer;
+}
